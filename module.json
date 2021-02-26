@@ -30,7 +30,7 @@
 	"bugs": "https://discord.gg/nGvRCDs",
 	"changelog": "https://discord.gg/nGvRCDs",
 	"url": "https://www.patreon.com/Giddy5e",
-	"manifest": "https://get.5e.tools/plutonium/module.json",
+	"manifest": "https://raw.githubusercontent.com/theDinkus/plutojson/main/module.json",
 	"download": "https://get.5e.tools/plutonium/plutonium.zip",
 	"minimumCoreVersion": "0.7.6",
 	"compatibleCoreVersion": "0.7.9",
